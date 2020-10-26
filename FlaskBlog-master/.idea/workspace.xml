@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98afdff4-c5a5-4d05-a493-e3331da48bae" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1jFNMi0qTERFAdC0MnUn9LZfL8I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="FlaskBlog-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98afdff4-c5a5-4d05-a493-e3331da48bae" name="Default Changelist" comment="" />
+      <created>1603392586570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603392586570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="779" y="259" width="424" height="491" key="FileChooserDialogImpl" timestamp="1603395998419">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="779" y="259" width="424" height="491" key="FileChooserDialogImpl/72.27.1848.948@72.27.1848.948" timestamp="1603395998419" />
+    <state width="1825" height="238" key="GridCell.Tab.0.bottom" timestamp="1603410774386">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1825" height="238" key="GridCell.Tab.0.bottom/72.27.1848.948@72.27.1848.948" timestamp="1603410774386" />
+    <state width="863" height="238" key="GridCell.Tab.0.bottom/72.27.886.939@72.27.886.939" timestamp="1603409264075" />
+    <state width="870" height="238" key="GridCell.Tab.0.bottom/72.27.893.939@72.27.893.939" timestamp="1603392978781" />
+    <state width="1825" height="238" key="GridCell.Tab.0.center" timestamp="1603410774386">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1825" height="238" key="GridCell.Tab.0.center/72.27.1848.948@72.27.1848.948" timestamp="1603410774386" />
+    <state width="863" height="238" key="GridCell.Tab.0.center/72.27.886.939@72.27.886.939" timestamp="1603409264071" />
+    <state width="870" height="238" key="GridCell.Tab.0.center/72.27.893.939@72.27.893.939" timestamp="1603392978780" />
+    <state width="1825" height="238" key="GridCell.Tab.0.left" timestamp="1603410774386">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1825" height="238" key="GridCell.Tab.0.left/72.27.1848.948@72.27.1848.948" timestamp="1603410774386" />
+    <state width="863" height="238" key="GridCell.Tab.0.left/72.27.886.939@72.27.886.939" timestamp="1603409264070" />
+    <state width="870" height="238" key="GridCell.Tab.0.left/72.27.893.939@72.27.893.939" timestamp="1603392978780" />
+    <state width="1825" height="238" key="GridCell.Tab.0.right" timestamp="1603410774386">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state width="1825" height="238" key="GridCell.Tab.0.right/72.27.1848.948@72.27.1848.948" timestamp="1603410774386" />
+    <state width="863" height="238" key="GridCell.Tab.0.right/72.27.886.939@72.27.886.939" timestamp="1603409264075" />
+    <state width="870" height="238" key="GridCell.Tab.0.right/72.27.893.939@72.27.893.939" timestamp="1603392978781" />
+    <state x="144" y="132" width="900" height="737" key="SettingsEditor" timestamp="1603396367394">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="144" y="132" width="900" height="737" key="SettingsEditor/72.27.1848.948@72.27.1848.948" timestamp="1603396367394" />
+    <state x="687" y="109" width="618" height="783" key="find.popup" timestamp="1603674092300">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="687" y="109" width="618" height="783" key="find.popup/72.27.1848.948@72.27.1848.948" timestamp="1603674092300" />
+    <state x="659" y="233" width="672" height="678" key="search.everywhere.popup" timestamp="1603410467313">
+      <screen x="72" y="27" width="1848" height="948" />
+    </state>
+    <state x="659" y="233" width="672" height="678" key="search.everywhere.popup/72.27.1848.948@72.27.1848.948" timestamp="1603410467313" />
+  </component>
+</project>
